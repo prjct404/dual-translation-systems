@@ -1,4 +1,3 @@
-# dual-translation-systems
 
 # Dual Translation Systems (Seq2Seq + Transformer)
 
